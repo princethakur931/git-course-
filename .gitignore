@@ -1,1 +1,3 @@
 op.py
+t/*
+!t/op.txt
